@@ -1,0 +1,5 @@
+Comanda nr.23 s-a efectuat cu succes!
+
+Client: Ion; E-Mail: email@mail.com
+
+Total pentru plata: 1200 Lei
